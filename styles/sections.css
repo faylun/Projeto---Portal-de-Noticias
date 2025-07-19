@@ -61,6 +61,7 @@ section header {
         }
     img {
         height: 160px;
+        border-radius: 4px;
     }
 
     figure {
